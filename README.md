@@ -1,2 +1,2 @@
 # Thunderbolt-Computer-Manager
-The only way of Protecting your PC in real time!
+This project is deprecated because the enhancements from this software can be found on Thunderbolt Quantum Navigator
